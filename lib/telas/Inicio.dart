@@ -8,7 +8,6 @@ class Inicio extends StatefulWidget {
 
  Inicio( this.pesquisa );
 
-
   @override
   _InicioState createState() => _InicioState();
 }

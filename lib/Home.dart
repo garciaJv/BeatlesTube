@@ -86,11 +86,12 @@ String _resultado = "";
               icon: Icon(Icons.home, color: Colors.black87),
             ),
 
+          /*
             BottomNavigationBarItem(
               title: Text("Playlists", style: TextStyle(fontSize: 15, fontWeight: FontWeight.w500, color:Colors.black87)),
               icon: Icon(Icons.playlist_play, color: Colors.black87),
             ),
-
+         */
            BottomNavigationBarItem(
             title: Text("Sobre", style: TextStyle(fontSize: 15, fontWeight: FontWeight.w500, color:Colors.black87)),
             icon: Icon(Icons.info, color: Colors.black87),
